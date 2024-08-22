@@ -84,3 +84,4 @@ Outliers in the fare column were capped to prevent skewing the results.
 Conclusion:
 
 The Exploratory Data Analysis of the Titanic dataset provided valuable insights into the factors influencing passenger survival. The analysis revealed significant correlations between passenger class, fare, age, and survival rates. By cleaning the data, handling missing values, and addressing outliers, the dataset was made more reliable for further analysis or modeling tasks. The visualizations and statistical summaries help understand the underlying patterns in the data, guiding future predictive modeling efforts.
+![Image Alt](https://github.com/priyanshi-varshney/CODTECH-TASK1/blob/214990f85b7de124bdcf3063950fbf7bdc0eaf9d/Screenshot%202024-08-21%20210301.png)
